@@ -26,7 +26,7 @@ button{
     margin-left: 89px;
     padding:20px;
     border: none;
-    background-color: white ;
+    background-color:rgb(65, 65, 65) ;
 }
 .img1{
     width: 40px;
@@ -46,4 +46,10 @@ button{
 }
 button:hover{
     cursor: pointer;
+}
+.branco{
+    color: white;
+}
+body{
+    background-color: rgb(65, 65, 65);
 }
